@@ -19,7 +19,7 @@ var copyObjectDeep = function(target) {
   };
   var obj2 = copyObjectDeep(obj);
   
-  obj2.a = 3;
+  obj2.a = 3; 
   obj2.b.c = 4;
   obj.b.d[1] = 3;
   
