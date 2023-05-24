@@ -13,4 +13,3 @@ fruits.forEach(function(fruit) {
   $ul.appendChild($li);
 });
 document.body.appendChild($ul);
-5-10
