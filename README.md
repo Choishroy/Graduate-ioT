@@ -31,3 +31,25 @@ call, apply, bind
 
 ---
 
+### Chapter 4
+
+연속적인 call back 함수의 종류 및 처리, 구성하는 방법
+
+
+map 사용법
+
+
+object 재활용하는 방법
+
+---
+
+
+### Chapter 5
+
+보안 및 제어 방법
+
+
+메모리 누수 막는 법
+
+---
+
