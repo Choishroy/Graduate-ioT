@@ -69,4 +69,29 @@ object 재활용하는 방법
 
 
 
+### Chapter 7
+
+프로토타입 메서드 ex) Rectangle.prototype.getArea = func.... -> name.getArea
+
+스테틱 메서드  ex) Rectangle.isRectangle = func... -> Rectangle.isRectangle(Rect1)
+
+클래스 생성 및 상속
+
+프로토타입 제거 -> 프로토타입에 값이 있으면 함수가 다르게 실행될 수 있음
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
