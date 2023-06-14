@@ -5,5 +5,5 @@ var Grade = function() {
     }
     this.length = args.length;
   };
-  Grade.prototype = [];
+  Grade.prototype = []; 
   var g = new Grade(100, 80);
